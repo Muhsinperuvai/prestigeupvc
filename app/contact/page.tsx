@@ -208,12 +208,6 @@ export default function ContactPage() {
                             Chat on WhatsApp
                           </a>
                         </Button>
-                        <Button asChild variant="outline" className="bg-green-500 text-white hover:bg-green-600 border-0">
-                          <a href="https://wa.me/917975947402" target="_blank" rel="noopener noreferrer">
-                            <MessageCircle className="h-4 w-4 mr-2" />
-                            Chat on WhatsApp
-                          </a>
-                        </Button>
                       </div>
                     </div>
                   </div>
