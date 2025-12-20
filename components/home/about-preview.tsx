@@ -33,7 +33,7 @@ export function AboutPreview() {
               the highest standards of quality and durability.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              With over 10 years of experience, we have successfully completed thousands of residential and commercial
+              With over 10 years of experience, we have successfully completed hundreds of residential and commercial
               projects, earning the trust of homeowners and businesses across the country.
             </p>
             <Link
