@@ -20,7 +20,7 @@ Follow these steps to get the project running on your local machine.
 First, clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/Srujan-rai/PrestigeUPvcDoors.git
+git clone https://github.com/Muhsinperuvai/PrestigeUPvcDoors.git
 cd PrestigeUPvcDoors
 ```
 
