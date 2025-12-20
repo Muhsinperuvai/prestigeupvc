@@ -3,7 +3,7 @@ export function MapSection() {
     <section className="py-20 bg-muted/30">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="font-serif text-3xl md:text-4xl font-semibold text-foreground mb-4">Visit Our Showroom</h2>
+          <h2 className="font-serif text-3xl md:text-4xl font-semibold text-foreground mb-4">Visit Our Factory</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
             Come experience our premium uPVC windows and doors in person. Our team is ready to help you find the perfect
             solution.
