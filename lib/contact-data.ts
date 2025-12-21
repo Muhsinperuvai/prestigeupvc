@@ -14,8 +14,8 @@ export const contactData: ContactInfo = {
   ],
   "phones": [
     "+91 89710 55607",
-    "+91 79759 47402",
-    "+91 89515 89382"
+    "+91 79759 47402"
+    
   ],
   "emails": [
     "mmiebangalore2023@gmail.com",
