@@ -12,10 +12,6 @@ const galleryImages = [
     image: "/gallery/WhatsApp Image 2025-12-11 at 9.21.43 PM.jpeg",
   },
   {
-    id: 2,
-    image: "/gallery/WhatsApp Image 2025-12-11 at 9.21.45 PM.jpeg",
-  },
-  {
     id: 3,
     image: "/gallery/WhatsApp Image 2025-12-11 at 9.21.50 PM.jpeg",
   },
@@ -26,10 +22,6 @@ const galleryImages = [
   {
     id: 5,
     image: "/gallery/WhatsApp Image 2025-12-12 at 8.33.08 AM.jpeg",
-  },
-  {
-    id: 6,
-    image: "/gallery/PREMIUM_uPVC WINDOWS & DOORS_page-0007.jpg",
   },
   {
     id: 7,
