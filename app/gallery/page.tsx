@@ -36,10 +36,6 @@ const galleryImages = [
     image: "/gallery/PREMIUM_uPVC WINDOWS & DOORS_page-0008.jpg",
   },
   {
-    id: 8,
-    image: "/gallery/PREMIUM_uPVC WINDOWS & DOORS_page-0009.jpg",
-  },
-  {
     id: 9,
     image: "/gallery/PREMIUM_uPVC WINDOWS & DOORS_page-0010.jpg",
   },
