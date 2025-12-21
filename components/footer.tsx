@@ -25,11 +25,16 @@ const footerLinks = {
 }
 
 const socialLinks = [
-  ...contactData.phones.map((phone) => ({
-    name: phone,
-    icon: MessageCircle,
-    href: `https://wa.me/${phone.replace(/\s/g, "")}`,
-  })),
+  ...["+91 89710 55607", "+91 79759 47402"]
+    .map((phone) => {
+      const normalized = phone.replace(/\D/g, ""); // keep digits only
+      return {
+        name: phone,
+        icon: MessageCircle,
+        href: `https://wa.me/${phone.replace(/\s/g, "")}`, // wa.me expects digits (country code + number)
+      };
+    })
+,
   { name: "Facebook", icon: Facebook, href: "https://www.facebook.com/share/14LKEfjNok1/" },
   { name: "Instagram", icon: Instagram, href: "https://www.instagram.com/m_minteriors_exteriors_2023/" },
   { name: "YouTube", icon: Youtube, href: "https://youtube.com/@mereenaandmanuelinteriorsandex?si=QH-Toj2SOUrXG_Dw" },
