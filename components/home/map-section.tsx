@@ -52,8 +52,8 @@ export function MapSection() {
                 +91 89710 55607
               </a>
               <br />
-              <a href="tel:+918951589382" className="hover:text-foreground">
-                +91 89515 89382
+              <a href="tel:+917975947402" className="hover:text-foreground">
+                +91 79759 47402
               </a>
               <br />
               <a href="mailto:mmiebangalore2023@gmail.com" className="hover:text-foreground">
