@@ -67,6 +67,10 @@ const galleryImages = [
     id: 20,
     image: "/gallery/470937437_1797027417731122_8922666282614541397_n.jpg",
   },
+  {
+    id: 21,
+    image: "/gallery/solved.jpg",
+  },
 ]
 
 export default function GalleryPage() {
